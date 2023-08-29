@@ -1,6 +1,7 @@
 # Lavanya Telapudi
+<img src="drawing.jpg" alt="drawing" width="200"/>
 
-![Headshot](link_to_your_headshot_image)
+/![Headshot](link_to_your_headshot_image)
 
 ## Education
 
