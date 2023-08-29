@@ -17,13 +17,12 @@ GPA: 4.0
 
 - Programming Languages: Python, R, Javascript, C
 - Design / Analysis: Data Structures and Algorithms, OOP
-- Databases: MySQL, RDBMS
+- Databases: MySQL
 - Machine Learning: Linear Regression, Deep Learning, Decision Tree, CNN, SVM, Logistic Regression, Random Forest, Naive Bayes, NLP
 - Machine Learning Frameworks: PyTorch, TensorFlow
 - Big Data Technologies: AWS S3, AWS Glue, Hadoop, PySpark, Databricks, Kubernetes
 - Data Visualization Tools: Tableau
 - Dev Tools / Applications: Git, Microsoft Excel
-- Insurance Suite: Guidewire Policy Center, Claim Center
 
 ## Professional Experience
 
@@ -54,10 +53,6 @@ May 2019 - June 2019
 **Housing Market Data Analysis**  
 - Created MySQL database, migrated to AWS RDS using AWS Glue
 - Preprocessed data in Excel, visualized insights with Tableau
-
-**Song Lyric Generation using GPT-2 and LSTM**  
-- Developed chatbot for lyrics generation using GPT-2 and LSTM
-- Converted generated text to music
 
 **POS for Event Management System**  
 - Designed POS using OOP concepts
