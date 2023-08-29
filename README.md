@@ -45,20 +45,20 @@ May 2019 - June 2019
 
 ## Academic Projects
 
-**Retention of Players in the NBA Team**  
+[**Retention of Players in the NBA Team**](https://github.com/lavanyatelapudi/Academic_Projects/tree/main/NBA%20Data%20Analysis) 
 - Predicted player retention for the next NBA season
 - Used regression and classification algorithms
 - Compared F1-scores of various models
 
-**Housing Market Data Analysis**  
+[**Housing Market Data Analysis**](https://github.com/lavanyatelapudi/Academic_Projects/tree/main/Housing%20Market%20Data%20Analysis)  
 - Created MySQL database, migrated to AWS RDS using AWS Glue
 - Preprocessed data in Excel, visualized insights with Tableau
 
-**POS for Event Management System**  
+[**POS for Event Management System**](https://github.com/lavanyatelapudi/Academic_Projects/tree/main/Event%20Management%20POS) 
 - Designed POS using OOP concepts
 - Implemented encapsulation, inheritance, and abstraction
 
-**Motor Vehicles Collision Analysis in NYC**  
+[**Motor Vehicles Collision Analysis in NYC**](https://github.com/lavanyatelapudi/Academic_Projects/tree/main/Motor%20Vehicle%20Collision) 
 - Ingested data using HDFS, performed EDA with Spark, scikit-learn, Dask
 
 **Door Unlocking System based on Facial Recognition**  
