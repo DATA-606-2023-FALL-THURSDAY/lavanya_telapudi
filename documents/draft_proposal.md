@@ -23,6 +23,7 @@ Competitive Advantage: Retaining star players or key contributors can give a tea
 
 
 ## Data: 
+[Link to Dataset](https://data.world/etocco/nba-player-stats/workspace/file?filename=NBA_Player_Stats_2.csv)
 
 This dataset is from data.world. The Dataset being used is 2 MB and it has 14574 rows and 31 columns
 
