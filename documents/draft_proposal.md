@@ -1,5 +1,11 @@
 # Retention of NBA players in the team for the next year 
-*September 03, 2023*
+- Author: Lavanya Telapudi
+- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+- GitHub: https://github.com/DATA-606-2023-FALL-THURSDAY/telapudi_lavanya]
+- LinkedIn: https://www.linkedin.com/in/lavanya-telapudi-5b7666214/
+- Code: 
+- Link to your PowerPoint presentation file
+- Link to your  YouTube video 
 
 ## Background
 
